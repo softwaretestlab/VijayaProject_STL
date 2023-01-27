@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fca74bb8-b3c1-484d-be44-c740a00f1daa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/src/test/java/Login/AT01_Navigate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamamthaGITLearningProject/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/src/test/java/JavaLearning/AT01_MainMethodInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/src/test/java/JavaLearning/AT02_JunitMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriyankaGitLearningProject/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STL-VenkyProject/src/test/java/JavaLearning/AT01_MainMethodInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/src/test/java/githubLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoniGitHubLearningProject/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/src/test/java/JavaLearning/AT01_MainMethodInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SonyLearningProject/src/test/java/JavaLearning/AT02_JunitMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/src/test/java/SeleniumLearning/AT01_JavaMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoumyaProject/src/test/java/SeleniumLearning/AT02_JunitLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/STDOUT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/main/java/PropertiesFile/ReadPropertiesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/FeatureFiles/FF01_NavigateToHNwebsite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/FeatureFiles/FF02_NavigateToHNwebsite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/RunnerClass/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/SeleniumCode/AT01_NavigateNTitleAssertScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/StepDefinations/SD01_NavigateToHNwebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/StepDefinations/hooksLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/src/test/java/StepDefinations/sampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VamsiProject_STL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/src/test/java/GitLearning/newtogit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatGitLearning/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/Basics/AT01_MainClassUsage01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT01_MainClassUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT03_StringInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT04_GlobalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT05_createAnObjectAndUseIt01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT06_createAnObjectAndUseIt02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT07_staticmethod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT08_staticmethod02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT09_AccessArrayEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT10_ArrayLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT12_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT01_MainMethodInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT02_JunitMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/src/main/java/BaseClass/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/src/test/java/BasicsOfJava/AT03_StringInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/src/test/java/BasicsOfJava/AT03_StringInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DileepProject/target/test-classes/BasicsOfJava/AT03_StringInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DileepProject/target/test-classes/BasicsOfJava/AT03_StringInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DummyProjectGit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DummyProjectGit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT01_MainClassUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT01_MainClassUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT02_LearnAboutMethod_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT02_LearnAboutMethod_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT03_StringInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT03_StringInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT04_GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT04_GlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT05_createAnObjectAndUseIt01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT05_createAnObjectAndUseIt01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT06_createAnObjectAndUseIt02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT06_createAnObjectAndUseIt02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT07_staticmethod01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT07_staticmethod01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT08_staticmethod02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT08_staticmethod02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT09_AccessArrayEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT09_AccessArrayEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT10_ArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT10_ArrayLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT12_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MadhuriProject/src/test/java/BasicsOfJav/AT12_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT02_LearnAboutMethod_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT03_StringInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT03_StringInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT04_GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/src/test/java/BasicsOfJava/AT04_GlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/target/test-classes/BasicsOfJava/AT02_LearnAboutMethod_JUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/target/test-classes/BasicsOfJava/AT02_LearnAboutMethod_JUnit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/target/test-classes/BasicsOfJava/AT03_StringInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/target/test-classes/BasicsOfJava/AT03_StringInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PriyankaProject01/target/test-classes/BasicsOfJava/AT04_GlobalVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PriyankaProject01/target/test-classes/BasicsOfJava/AT04_GlobalVariables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PustToRepo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PustToRepo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PustToRepo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PustToRepo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PustToRepo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PustToRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PustToRepo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PustToRepo/PustToRepo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PustToRepo/src/test/java/Seleniumlearn/SeleniumNav.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PustToRepo/src/test/java/Seleniumlearn/SeleniumNav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RamyaProject/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RamyaProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperProject01/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperProject01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperProject01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperProject01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT01_MainMethodUsage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT02_LearnAboutMethod_JUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT03_StringInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT04_GlobalVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT05_createAnObjectAndUseIt01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT06_createAnObjectAndUseIt02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT07_staticmethod01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT08_staticmethod02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT09_AccessArrayEle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT10_ArrayLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/AT12_HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/BasicOfJava/USerDirExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT01_constructor01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT02_constructor02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT03_Encapsulation01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT04_Encapsulation02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT05_InHeritance01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT06_InHeritance02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT07_InHeritance03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT08_Polymorphism_MethodOverLoading01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT09_Polymorphism_MethodOverLoading02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT10_Polymorphism_MethodOverRiding01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT11_Polymorphism_MethodOverRiding02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT13_AbstractClass01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT14_AbstractClass02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT15_Interface01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/JavaOOPSconcepts/AT16_Interface02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT01_ForLoop01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT02_WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT03_DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT04_IfCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT05_IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT06_ElseIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/LoopsNConditionalStatments/AT06_SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT03_XpathLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT04_closeVsQuit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT05_CssSelectorLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT05_NavigateBackFront.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT06_listofLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT07_RadioButtonSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT08_Iframe$AT04_iframeConcept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT08_Iframe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT09_iframeConcept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT10_DropDownSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT11_isSelected.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT12_isDisplayedisEnabled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT13_WebTables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperProject01/target/test-classes/SeleniumLearning/AT14_SwitchTabs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SwathiProject/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SwathiProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SwathiProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT01_MainMethodUsage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT02_LearnAboutMethod_JUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT03_StringInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT04_GlobalVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT05_createAnObjectAndUseIt01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT06_createAnObjectAndUseIt02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT07_staticmethod01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT08_staticmethod02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT09_AccessArrayEle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT10_ArrayLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT12_HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT13_trimLearn.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KtX1j9t5hnUdFVvLSDuvMy8Vl8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AT02_JunitMethods">
+    <configuration name="AT01_MainMethodInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT01_MainMethodInJava" />
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT02_JunitMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT02_JunitMethods" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT02_JunitMethods.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT02_JunitMethods" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT02_JunitMethods.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT02_JunitMethods" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AT02_JunitMethods" />
+        <item itemvalue="JUnit.AT02_JunitMethods.test02" />
+        <item itemvalue="JUnit.AT02_JunitMethods.test01" />
+        <item itemvalue="Application.AT01_MainMethodInJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca74bb8-b3c1-484d-be44-c740a00f1daa" name="Changes" comment="" />
+      <created>1674794641599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674794641599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
