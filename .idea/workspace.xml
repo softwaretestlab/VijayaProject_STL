@@ -133,13 +133,9 @@
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT09_AccessArrayEle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT10_ArrayLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT12_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT03_StringInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT04_GlobalVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT05_createAnObjectAndUseIt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT06_createAnObjectAndUseIt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT07_staticmethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT08_staticmethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT09_AccessArrayEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT11_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT13_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT14_TrimLearing.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/runConfigurations.xml" beforeDir="false" />
@@ -252,8 +248,6 @@
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT12_HashMap.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT13_trimLearn.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JavaLearning/AT02_JunitMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaLearning/AT02_JunitMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaLearning/AT02_JunitMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JavaLearning/AT02_JunitMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,70 +283,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.AT10_ArrayLoop.test14">
-    <configuration name="AT06_createAnObjectAndUseIt02.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VijayaProject_STL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaLearning" />
-      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT06_createAnObjectAndUseIt02" />
-      <option name="METHOD_NAME" value="test10" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT08_staticmethod02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VijayaProject_STL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaLearning" />
-      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT08_staticmethod02" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT08_staticmethod02.test12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VijayaProject_STL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaLearning" />
-      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT08_staticmethod02" />
-      <option name="METHOD_NAME" value="test12" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT09_AccessArrayEle.test13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VijayaProject_STL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaLearning" />
-      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT09_AccessArrayEle" />
-      <option name="METHOD_NAME" value="test13" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.AT15_UserDir.UserDirectory">
     <configuration name="AT10_ArrayLoop.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
@@ -369,13 +300,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AT11_ArrayList.ArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT11_ArrayList" />
+      <option name="METHOD_NAME" value="ArrayList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT13_HashMap.test16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT13_HashMap" />
+      <option name="METHOD_NAME" value="test16" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT14_TrimLearing.trimlearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT14_TrimLearing" />
+      <option name="METHOD_NAME" value="trimlearn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT15_UserDir.UserDirectory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaLearning" />
+      <option name="MAIN_CLASS_NAME" value="JavaLearning.AT15_UserDir" />
+      <option name="METHOD_NAME" value="UserDirectory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AT15_UserDir.UserDirectory" />
+        <item itemvalue="JUnit.AT14_TrimLearing.trimlearn" />
+        <item itemvalue="JUnit.AT13_HashMap.test16" />
+        <item itemvalue="JUnit.AT11_ArrayList.ArrayList" />
         <item itemvalue="JUnit.AT10_ArrayLoop.test14" />
-        <item itemvalue="JUnit.AT09_AccessArrayEle.test13" />
-        <item itemvalue="JUnit.AT08_staticmethod02" />
-        <item itemvalue="JUnit.AT08_staticmethod02.test12" />
-        <item itemvalue="JUnit.AT06_createAnObjectAndUseIt02.test10" />
       </list>
     </recent_temporary>
   </component>
