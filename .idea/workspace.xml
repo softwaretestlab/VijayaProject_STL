@@ -133,7 +133,7 @@
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT09_AccessArrayEle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT10_ArrayLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT12_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT03_XpathLearning.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/runConfigurations.xml" beforeDir="false" />
@@ -246,7 +246,7 @@
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT12_HashMap.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT13_trimLearn.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +282,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.AT01_NavigateTitleAssertScreenshot.Navigation">
+  <component name="RunManager" selected="JUnit.AT03_XpathLearning.xpath">
     <configuration name="AT01_NavigateTitleAssertScreenshot.Navigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
@@ -299,33 +299,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT07_InHeritance03.inhMethod06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT02_LocatorsLearning.LocatorsSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOOPSconcepts.*" />
+          <option name="PATTERN" value="SeleniumLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaOOPSconcepts" />
-      <option name="MAIN_CLASS_NAME" value="JavaOOPSconcepts.AT07_InHeritance03" />
-      <option name="METHOD_NAME" value="inhMethod06" />
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT02_LocatorsLearning" />
+      <option name="METHOD_NAME" value="LocatorsSelenium" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT09_Polymorphism_MethodOverLoading02.MethodCall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT03_XpathLearning.xpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOOPSconcepts.*" />
+          <option name="PATTERN" value="SeleniumLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaOOPSconcepts" />
-      <option name="MAIN_CLASS_NAME" value="JavaOOPSconcepts.AT09_Polymorphism_MethodOverLoading02" />
-      <option name="METHOD_NAME" value="MethodCall" />
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT03_XpathLearning" />
+      <option name="METHOD_NAME" value="xpath" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -364,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AT03_XpathLearning.xpath" />
+        <item itemvalue="JUnit.AT02_LocatorsLearning.LocatorsSelenium" />
         <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot.Navigation" />
         <item itemvalue="JUnit.AT14_AbstractClass02" />
         <item itemvalue="JUnit.AT11_Polymorphism_MethodOverRiding02.PolyOverRideOne" />
-        <item itemvalue="JUnit.AT09_Polymorphism_MethodOverLoading02.MethodCall" />
-        <item itemvalue="JUnit.AT07_InHeritance03.inhMethod06" />
       </list>
     </recent_temporary>
   </component>
