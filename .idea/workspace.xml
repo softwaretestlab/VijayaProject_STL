@@ -133,7 +133,6 @@
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT09_AccessArrayEle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT10_ArrayLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT12_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT03_XpathLearning.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/runConfigurations.xml" beforeDir="false" />
@@ -245,8 +244,6 @@
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT10_ArrayLoop.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT12_HashMap.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT13_trimLearn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
