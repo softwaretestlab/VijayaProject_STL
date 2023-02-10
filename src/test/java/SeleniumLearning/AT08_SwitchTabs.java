@@ -14,10 +14,8 @@ public class AT08_SwitchTabs {
     public void SwitchTabLearn() throws InterruptedException {
         //setting up chromedriver
         WebDriverManager.chromedriver().setup();
-        //options
-        ChromeOptions chromeOptions = new ChromeOptions();
-        //we create an object of WebDriver
-        WebDriver driver = new ChromeDriver(chromeOptions);
+              //we create an object of WebDriver
+        WebDriver driver = new ChromeDriver();
         //At this point browser will be opened
         //maximize browser
         driver.manage().window().maximize();
