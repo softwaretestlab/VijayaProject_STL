@@ -21,7 +21,7 @@ public class AT12_WebTables {
         //maximize browser
         driver.manage().window().maximize();
         //Navigate to HN website
-        driver.get("C:/Users/softw/IdeaProjects/VijayaProject_STL/src/main/java/Resources/webtablehtml.html");
+        driver.get(System.getProperty("user.dir")+"/src/main/java/Resources/webtablehtml.html");
         //get column count
         List<WebElement> colcount = driver.findElements(By.xpath("/html/body/table/thead/tr/th"));
         int colSize = colcount.size();

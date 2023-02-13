@@ -25,6 +25,13 @@
       <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/src/test/java/JavaLearning/AT01_MainMethodInJava.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MamthaProject_STL/src/test/java/JavaLearning/AT02_JunitMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/src/test/java/GitLearning/TC01_NavigateToWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrasadGitLearning/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PrasadProject_STL/.idea/encodings.xml" afterDir="false" />
@@ -133,10 +140,15 @@
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT09_AccessArrayEle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT10_ArrayLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT12_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT09_ChromeOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT09_DropDownSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT10_RadioButtonSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT12_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ReadPropertiesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ReadPropertiesFile.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/TestDataHN1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Xls_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT15_ExcelDataUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/BaseClassNPropertiesFileUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/EnterRegDetials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/ExcelPathLocation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/runConfigurations.xml" beforeDir="false" />
@@ -249,8 +261,12 @@
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT12_HashMap.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT13_trimLearn.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT08_SwitchTabs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT08_SwitchTabs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT08_SwitchTabs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT08_SwitchTabs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT12_WebTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT12_WebTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/screenshots/capture-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/screenshots/capture-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT12_WebTables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT12_WebTables.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,16 +294,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/softw/IdeaProjects/VijayaProject_STL/src/main/java/Resources"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.AT12_WebTables.table">
-    <configuration name="AT09_ChromeOptions.ChromeOpt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\softw\IdeaProjects\VijayaProject_STL\src\main\java\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExcelPathLocation">
+    <configuration name="AT01_NavigateTitleAssertScreenshot.Navigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
         <pattern>
@@ -296,14 +319,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT09_ChromeOptions" />
-      <option name="METHOD_NAME" value="ChromeOpt" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT01_NavigateTitleAssertScreenshot" />
+      <option name="METHOD_NAME" value="Navigation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT09_DropDownSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT15_ExcelDataUsage.CreateAccounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
         <pattern>
@@ -312,13 +335,45 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT09_DropDownSelect" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT15_ExcelDataUsage" />
+      <option name="METHOD_NAME" value="CreateAccounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseClassNPropertiesFileUsage.Nav" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.BaseClassNPropertiesFileUsage" />
+      <option name="METHOD_NAME" value="Nav" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterRegDetials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VijayaProject_STL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.EnterRegDetials" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT09_DropDownSelect.iframeReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExcelPathLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VijayaProject_STL" />
       <extension name="coverage">
         <pattern>
@@ -327,52 +382,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT09_DropDownSelect" />
-      <option name="METHOD_NAME" value="iframeReg" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT10_RadioButtonSelect.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VijayaProject_STL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT10_RadioButtonSelect" />
-      <option name="METHOD_NAME" value="NavHn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT12_WebTables.table" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VijayaProject_STL" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT12_WebTables" />
-      <option name="METHOD_NAME" value="table" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.ExcelPathLocation" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AT12_WebTables.table" />
-        <item itemvalue="JUnit.AT10_RadioButtonSelect.NavHn" />
-        <item itemvalue="JUnit.AT09_DropDownSelect.iframeReg" />
-        <item itemvalue="JUnit.AT09_DropDownSelect" />
-        <item itemvalue="JUnit.AT09_ChromeOptions.ChromeOpt" />
+        <item itemvalue="JUnit.ExcelPathLocation" />
+        <item itemvalue="JUnit.EnterRegDetials" />
+        <item itemvalue="JUnit.BaseClassNPropertiesFileUsage.Nav" />
+        <item itemvalue="JUnit.AT15_ExcelDataUsage.CreateAccounts" />
+        <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot.Navigation" />
       </list>
     </recent_temporary>
   </component>
@@ -397,5 +419,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
