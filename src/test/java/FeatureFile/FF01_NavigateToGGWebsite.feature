@@ -3,6 +3,13 @@ Feature: HN Homepage
     Given open browser and enter url and navigate to HN website
     Then get title and assert
 
+  Scenario: Login to Homepage
+    Given Enter username
+    Then Enter Password
+    And click on login button
+    Then should be on Account screen
+
+
 
 
 
