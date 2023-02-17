@@ -1,3 +1,4 @@
+@Regression @Smoke
 Feature:
     #background method will run first before executing any Scenario in the Feature
   Background:

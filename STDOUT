@@ -1,0 +1,12 @@
+
+@Regression @Smoke
+Scenario: Account link                               [90m# src/test/java/FeatureFile/FF04_CucumberBackground.feature:7[0m
+  [32mGiven [0m[32muse is on homepage[0m                           [90m# StepDefinations.SD03_CucumberBackground_01.use_is_on_homepage()[0m
+  [32mGiven [0m[32muser clicks on account link from homepage[0m    [90m# StepDefinations.SD03_CucumberBackground_01.user_clicks_on_account_link_from_homepage()[0m
+  [32mThen [0m[32mUser is navigated to Create an account screen[0m [90m# StepDefinations.SD03_CucumberBackground_01.user_is_navigated_to_create_an_account_screen()[0m
+
+@Regression @Smoke
+Scenario: Account link-1                               [90m# src/test/java/FeatureFile/FF04_CucumberBackground.feature:11[0m
+  [32mGiven [0m[32muse is on homepage[0m                             [90m# StepDefinations.SD03_CucumberBackground_01.use_is_on_homepage()[0m
+  [32mGiven [0m[32muser clicks on account link from homepage-[0m[32m[1m1[0m    [90m# StepDefinations.SD04_CucumberBackground_02.user_clicks_on_account_link_from_homepage(java.lang.Integer)[0m
+  [32mThen [0m[32mUser is navigated to Create an account screen-[0m[32m[1m1[0m [90m# StepDefinations.SD04_CucumberBackground_02.user_is_navigated_to_create_an_account_screen(java.lang.Integer)[0m

@@ -16,14 +16,14 @@ public class AT09_ChromeOptions {
         chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--ignore-certificate-errors");
         chromeOptions.addArguments("--disable-popup-blocking");
-        chromeOptions.addArguments("--headless");
-        chromeOptions.addArguments("--incognito");
+       // chromeOptions.addArguments("--headless");
+      //  chromeOptions.addArguments("--incognito");
         //we create an object of WebDriver
         WebDriver driver = new ChromeDriver(chromeOptions);
         //At this point browser will be opened
         //maximize browser
        // driver.manage().window().maximize();
         //Navigate to HN website
-        driver.get("https://echoecho.com/");
+        driver.get("https://www.myer.com.au/join");
     }
 }

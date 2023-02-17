@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.548">
+    <testcase classname="Unknown" name="Account link" time="0.097">
+        <system-out>
+            <![CDATA[Given use is on homepage....................................................passed
+Given user clicks on account link from homepage.............................passed
+Then User is navigated to Create an account screen..........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Unknown" name="Account link-1" time="0.025">
+        <system-out>
+            <![CDATA[Given use is on homepage....................................................passed
+Given user clicks on account link from homepage-1...........................passed
+Then User is navigated to Create an account screen-1........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
