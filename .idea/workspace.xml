@@ -140,14 +140,6 @@
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT09_AccessArrayEle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT10_ArrayLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VenkatProject/src/test/java/BasicsOfJava/AT12_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF06_TaggedhooksLearning.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF07_DDTUsingCucumber_CreateAcc.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF07_HooksOrdering.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumCucumberCode/AT08_CreateAnAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD06_TaggrfHooksLearning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD07_HooksOrdering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD08_DDTUsingCucumber_CreateAcc.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutomationLearning/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutomationLearning/.idea/runConfigurations.xml" beforeDir="false" />
@@ -260,10 +252,6 @@
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT12_HashMap.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwathiProject/src/test/java/BasicOfJava/AT13_trimLearn.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFile/FF04_CucumberBackground.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF04_CucumberBackground.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT09_ChromeOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT09_ChromeOptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT09_ChromeOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT09_ChromeOptions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
